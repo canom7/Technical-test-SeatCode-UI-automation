@@ -8,6 +8,7 @@
 
 ## Setup:
 * Install [Node](http://nodejs.org) (v6.x.x or later)
+* Clone the repository https://github.com/canom7/Technical-test-SeatCode-UI-automation.git
 * `npm install` to install the project dependencies
 
 ## Run tests:
