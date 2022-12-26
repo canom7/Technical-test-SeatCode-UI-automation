@@ -1,0 +1,15 @@
+{
+  "name": "cypressseatcode",
+  "version": "1.0.0",
+  "description": "Configure a car by default",
+  "main": "index.js",
+  "scripts": {
+    "cypress": "cypress open",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mireia Cano",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^12.2.0"
+  }
+}
