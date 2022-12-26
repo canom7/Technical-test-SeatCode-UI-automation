@@ -8,10 +8,11 @@
 
 ## Setup:
 * Install [Node](http://nodejs.org) (v6.x.x or later)
+* Install Git
 * Clone the repository https://github.com/canom7/Technical-test-SeatCode-UI-automation.git
-* `npm install` to install the project dependencies
+* Execute `npm install` in project root to install the project dependencies
 
 ## Run tests:
-* `npm run cypress` in project root to start the cypress server
-*  Select the spec file to run the spec
+* Execute `npm run cypress` in project root to start the cypress server
+* Select the spec file to run the spec
 
