@@ -1,2 +1,16 @@
-# Technical-test-SeatCode-UI-automation
-Automated test with cypress.io using SEAT car Configurator
+# Technical test SeatCode - UI automation
+
+## Project Description:
+**"Cypress.io" e2e tests using SEAT car Configurator**
+* Go to SEAT CAR configurator
+* Configure CAR Arona with default options
+* Check the configuration is available to download with X reference id and has this same result
+
+## Setup:
+* Install [Node](http://nodejs.org) (v6.x.x or later)
+* `npm install` to install the project dependencies
+
+## Run tests:
+* `npm run cypress` in project root to start the cypress server
+*  Select the spec file to run the spec
+
